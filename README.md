@@ -1,12 +1,6 @@
 # Olá, coders! 👋🌸
 
-Me chamo [Seu Nome] e sou uma entusiasta da programação com uma paixão por tudo que é rosa! 💖 Quando não estou codificando, você me encontrará pintando o mundo digital com cores suaves e códigos encantados.
-
-## 💻 Projetos em Destaque
-
-- **Pink Pixel Art** 🎨: Transformando linhas de código em arte digital rosa!
-- **Code & Bows** 🎀: Um repositório cheio de projetos fofos e funcionais!
-- **Enchanted Scripts** 🧚: Conjuntos de scripts mágicos para automatizar tarefas do dia a dia!
+Me chamo Mariana! 💖.
 
 ## 🌸 Estatísticas do GitHub
 
@@ -14,6 +8,4 @@ Me chamo [Seu Nome] e sou uma entusiasta da programação com uma paixão por tu
 
 ## 💖 Entre em Contato
 
-- LinkedIn: [Seu LinkedIn](link)
-- Twitter: [Seu Twitter](link)
-- Site Pessoal: [Seu Site Pessoal](link)
+- LinkedIn: [Mari](https://br.linkedin.com/in/mariana-hipolito-386810300)
