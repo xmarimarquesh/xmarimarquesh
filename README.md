@@ -10,7 +10,7 @@ Me chamo [Seu Nome] e sou uma entusiasta da programação com uma paixão por tu
 
 ## 🌸 Estatísticas do GitHub
 
-[![](https://github-readme-stats.vercel.app/api?username=seu_nome_de_usuario&show_icons=true&theme=pink)](https://github.com/seu_nome_de_usuario)
+[![](https://github-readme-stats.vercel.app/api?username=seu_nome_de_usuario&show_icons=true&theme=pink)](https://github.com/xmarimarquesh)
 
 ## 💖 Entre em Contato
 
