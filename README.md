@@ -1,4 +1,4 @@
-# Olá, coders! 👋🌸
+# 👋🌸
 
 Me chamo Mariana! 💖.
 
