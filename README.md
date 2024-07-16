@@ -5,6 +5,7 @@ Me chamo Mariana! 💖.
 ## 🌸 Estatísticas do GitHub
 
 [![](https://github-readme-stats.vercel.app/api?username=xmarimarquesh&show_icons=true&theme=pink)](https://github.com/xmarimarquesh)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=xmarimarquesh&layout=compact&theme=radical)
 
 ## 💖 Entre em Contato
 
