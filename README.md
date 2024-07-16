@@ -1,6 +1,6 @@
 # 👋❤️
 
-Me chamo Mariana! ❤️.
+Me chamo Mariana! 🌹
 
 ## ❤️ Estatísticas do GitHub
 
