@@ -10,6 +10,4 @@
 
 ###
 
-## ❤️
-
 - LinkedIn: [Mari](https://br.linkedin.com/in/mariana-hipolito-386810300)
