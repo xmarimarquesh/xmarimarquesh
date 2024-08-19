@@ -3,9 +3,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xmarimarquesh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=jolly&locale=en&hide_border=false" height="145" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xmarimarquesh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=jolly&hide_border=false" height="145" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=xmarimarquesh&locale=en&mode=daily&theme=jolly&hide_border=false&border_radius=5" height="250" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=xmarimarquesh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=jolly&locale=en&hide_border=true" height="145" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xmarimarquesh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=jolly&hide_border=true" height="145" alt="languages graph"  />
+   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=xmarimarquesh&theme=jolly&hide_border=true&exclude_days=Sun%2CSat&card_width=634&card_height=145" alt="GitHub Streak" /></a>
 </div>
 
 ###
