@@ -1,4 +1,4 @@
-<h2 align="left">Oie 👋</h2>
+<h2 align="left">Oie</h2>
 
 ###
 
